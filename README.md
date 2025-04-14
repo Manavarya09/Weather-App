@@ -23,9 +23,7 @@ const apiKey = "YOUR_API_KEY";
 ### 3. Run
 Just open `index.html` in your browser. No server needed.
 
-## Screenshots
 
-![screenshot](https://user-images.githubusercontent.com/your-username/weather-app-screenshot.png)
 
 ## License
 This project is open-source and free to use.
